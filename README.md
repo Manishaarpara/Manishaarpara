@@ -1,8 +1,9 @@
 ## Hello World! 
 
 <p align="center">
-  <img src="[https://link-ke-gambar.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG5lbHRweHN3NHJiZHExcDZxdmRqZG9kMnN3bzVscnlncG14aXE4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJVCFayH2SZ2/giphy.gif" alt="gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFlZGF3cXYyNGs1Z2VyN282aDFzNWxlYmEwb2R1czVkaDJveXYyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1zJVCFayH2SZ2/giphy.gif" alt="gif">
 </p>
+
 
 <!--
 **Manishaarpara/Manishaarpara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
