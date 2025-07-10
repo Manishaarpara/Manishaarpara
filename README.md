@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##### Experience 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,laravel,php,mysql,vue,nodejs,pocketbase,notion,r,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,laravel,php,mysql,vue,nodejs,docker,threejs,tailwind,notion,r,python,java,c)](https://skillicons.dev)
