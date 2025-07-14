@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 -->
 ##### Experience 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,laravel,php,mysql,vue,nodejs,docker,threejs,tailwind,notion,r,python,java,c)](https://skillicons.dev)
+
+##### My GitHub Stats 
+![Manisha Arpara's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishaarpara)
